@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,billing_cycle_days
+1,Basic,99,30
+2,Standard,199,30
+3,Premium,299,30
+4,Annual,999,365
