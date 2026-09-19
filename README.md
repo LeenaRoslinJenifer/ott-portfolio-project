@@ -39,8 +39,6 @@ Power BI dashboard.
 | Auto-renew | 73.93% of subscriptions have auto-renew on, 26.07% off |
 | Trial eligibility | 69.11% of the 1,800 users are trial-eligible, 30.89% are not |
 
-*(Figures above are from this project's own dataset — re-verify against the
-live `.pbix`/query output before quoting them elsewhere.)*
 
 ## Tools used
 
